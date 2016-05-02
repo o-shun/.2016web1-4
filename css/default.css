@@ -10,3 +10,8 @@ text-align:center;
 border-top:#6fbb9a 1px dotted;
 text-align:center;
 }
+body{
+  background-color: #fbf9cc;
+  background-image: ur1(../ossan.jpg);
+  background-repeat: repeat-x;
+}
