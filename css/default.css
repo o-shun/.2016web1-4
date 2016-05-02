@@ -15,3 +15,28 @@ body{
   background-image: ur1(i320.jpg);
   background-repeat: repeat-x;
 }
+
+body{
+    background-color: #fbf9cc;
+}
+h1{
+    font-size: 1.75em;
+    color: #3399cc;
+}
+h2{
+    font-size: 1.25em;
+    color: #ffffff;
+}
+p{
+    font-size: 0.8em;
+    background-color: #3399cc;
+    color: #333333;
+}
+a{
+    color: #df4839;
+}
+a:hover{
+    color: #ff705b; /* マウスが乗った時だけ特別な色 */
+}
+
+
